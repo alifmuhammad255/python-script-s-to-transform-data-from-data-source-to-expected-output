@@ -2,7 +2,7 @@
 
 
 
-## Aplikasi dan Module yang dibutuhkan
+## Aplikasi,Module, dan File yang dibutuhkan
 1. Visual Studio Code
 
 
