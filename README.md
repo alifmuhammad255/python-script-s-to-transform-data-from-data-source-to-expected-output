@@ -44,7 +44,7 @@
 ![rsz_2](https://user-images.githubusercontent.com/61418879/115966913-efdf6700-a559-11eb-8546-be73e779cb14.png)
 
 
-7. Ketikkan cd lalu paste python path kemudian enter
+7. Ketikkan cd lalu paste python path kemudian Enter
 ```sh
 cd C:\Users\Lenovo\AppData\Local\Programs\Python\Python39
 ```
@@ -58,7 +58,7 @@ python -m pip install --upgrade pip
 ![rsz_4](https://user-images.githubusercontent.com/61418879/115967609-cc1e2000-a55d-11eb-8d36-1a2ef74e816f.png)
 
 
-9. Ketikkan cd Scripts kemudian enter
+9. Ketikkan cd Scripts kemudian Enter
 ```sh
 cd Scripts
 ```
@@ -70,4 +70,16 @@ cd Scripts
 pip install pandas
 ```
 ![rsz_6](https://user-images.githubusercontent.com/61418879/115968159-9af31f00-a560-11eb-91b0-ecee44585fd7.png)
+
+
+11. Buka Visual Studio Code lalu buka file daily_hotel_booking_funnel.py dan file daily_hotel_booking_funnel.csv
+![rsz_7](https://user-images.githubusercontent.com/61418879/115968282-574ce500-a561-11eb-8cc8-31257fe72b94.png)
+
+
+12. Tekan "Shift+Ctrl+P" lalu ketikkan "Python: Select Interpreter" kemudian Enter
+![rsz_8](https://user-images.githubusercontent.com/61418879/115968380-e954ed80-a561-11eb-87e6-8bdb31c88f19.png)
+
+
+13. Pilih interpreter "Python 3.9.4 64-bit" kemudian Enter
+![rsz_9](https://user-images.githubusercontent.com/61418879/115968474-608a8180-a562-11eb-89fa-58c309d9d7fe.png)
 
