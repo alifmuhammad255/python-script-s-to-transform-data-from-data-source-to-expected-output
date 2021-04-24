@@ -11,8 +11,8 @@
 
 ## Dokumentasi tentang Cara Menjalankan Script
 1. Download dan Install Visual Studio Code dan Python 3.9.4 64-bit
-![0A](https://user-images.githubusercontent.com/61418879/115966186-beb16780-a556-11eb-9bd4-ab2a83038a66.png)
-![0B](https://user-images.githubusercontent.com/61418879/115966213-d0930a80-a556-11eb-9dca-cbd8c8fc5bba.png)
+![rsz_0a](https://user-images.githubusercontent.com/61418879/115966577-7c892580-a558-11eb-8514-092dfb7e4105.png)
+
 
 2. Cari Python Path anda. Di laptop saya Python Path berada di C:\Users\Lenovo\AppData\Local\Programs\Python\Python39
 ![1](https://user-images.githubusercontent.com/61418879/115965650-56618680-a554-11eb-9edd-901bd15660de.png) 
