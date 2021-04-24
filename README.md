@@ -31,5 +31,9 @@
 ![rsz_2](https://user-images.githubusercontent.com/61418879/115966913-efdf6700-a559-11eb-8546-be73e779cb14.png)
 
 7. Ketikkan cd lalu paste python path (C:\Users\Lenovo\AppData\Local\Programs\Python\Python39)
+```sh
+cd C:\Users\Lenovo\AppData\Local\Programs\Python\Python39
+```
 ![rsz_13](https://user-images.githubusercontent.com/61418879/115967169-3a151800-a55b-11eb-9127-8254ab93fa60.png)
 
+8. Ketikkan Update pip
