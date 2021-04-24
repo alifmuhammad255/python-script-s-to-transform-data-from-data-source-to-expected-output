@@ -27,7 +27,7 @@
 5. Cari Python Path anda lalu copy. Di laptop saya Python Path berada di C:\Users\Lenovo\AppData\Local\Programs\Python\Python39
 ![rsz_1](https://user-images.githubusercontent.com/61418879/115966806-6af44d80-a559-11eb-9f58-8a24c102f634.png)
 
-6.Jalankan CMD sebagai administrator
+6. Jalankan CMD sebagai administrator
 ![rsz_2](https://user-images.githubusercontent.com/61418879/115966913-efdf6700-a559-11eb-8546-be73e779cb14.png)
 
 7. Ketikkan cd lalu paste python path (C:\Users\Lenovo\AppData\Local\Programs\Python\Python39)
