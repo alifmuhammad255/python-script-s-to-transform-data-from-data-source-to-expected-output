@@ -36,4 +36,8 @@ cd C:\Users\Lenovo\AppData\Local\Programs\Python\Python39
 ```
 ![rsz_13](https://user-images.githubusercontent.com/61418879/115967169-3a151800-a55b-11eb-9127-8254ab93fa60.png)
 
-8. Ketikkan Update pip
+8. Update pip dan install packages
+```sh
+python -m pip install --upgrade pip
+```
+![rsz_4](https://user-images.githubusercontent.com/61418879/115967609-cc1e2000-a55d-11eb-8d36-1a2ef74e816f.png)
