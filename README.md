@@ -83,3 +83,10 @@ pip install pandas
 13. Pilih interpreter "Python 3.9.4 64-bit" kemudian Enter
 ![rsz_9](https://user-images.githubusercontent.com/61418879/115968474-608a8180-a562-11eb-89fa-58c309d9d7fe.png)
 
+
+14. Jalankan File daily_hotel_booking_funnel.py dengan menekan tombol Run di pojok kanan atas Visual Studio Code
+![10](https://user-images.githubusercontent.com/61418879/115968686-3b4a4300-a563-11eb-9698-59671208b47c.png)
+
+
+15. Lihat output dari File daily_hotel_booking_funnel.py Terminal
+![rsz_11](https://user-images.githubusercontent.com/61418879/115968793-bb70a880-a563-11eb-830b-85d84565caf1.png)
