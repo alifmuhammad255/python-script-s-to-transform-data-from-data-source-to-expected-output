@@ -1,0 +1,5 @@
+event_date,interface_type,app_version,num_visit,num_search,num_product_viewed,num_add_to_cart,num_checkout,num_payment_selected,num_booking_created,num_session_visit,num_session_search,num_session_product_viewed,num_session_add_to_cart,num_session_checkout,num_session_payment_selected,num_session_booking_created
+20210101,ANDROID,9.9.9,10,9,8,7,6,10,9,8,7,6,10,9,8,7
+20210202,IOS,9.9.9,10,9,8,7,6,10,9,8,7,6,10,9,8,7
+20210303,ANDROID,9.9.9,10,9,8,7,6,10,9,8,7,6,10,9,8,7
+20210404,IOS,9.9.9,10,9,8,7,6,10,9,8,7,6,10,9,8,7
